@@ -26,9 +26,9 @@ More projects to come — stay tuned!
 
 ---
 
-## ✈️ About Me
+## 🙋‍♂️ About Me
 
-Outside of tech, I’m a lifelong aviation enthusiast who enjoys plane spotting. I love to travel — Japan is my favorite destination! In my free time, I enjoy reading, cycling, gaming (built my own PC), paddleboarding, and recently took up running with a goal of reaching 10km!
+Outside of tech, I’m a lifelong aviation enthusiast who enjoys plane spotting.✈️ I love to travel — Japan is my favorite destination! In my free time, I enjoy reading, cycling, gaming (built my own PC), paddleboarding, and recently took up running with a goal of reaching 10km! 🏃‍♂️🎯
 
 ---
 
