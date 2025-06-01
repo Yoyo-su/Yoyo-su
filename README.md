@@ -19,7 +19,7 @@ I'm a Data Engineer transitioning from a 10+ year career in manufacturing. I rec
 ## 🚀 Projects
 
 
-- **📊 [Northcoders DE Project – Terrific Totes](https://github.com/yourusername/terrific-totes](https://github.com/Yoyo-su/NC-DataEng-Project-Terrific-Totes)**   
+- **📊 [Northcoders DE Project – Terrific Totes](https://github.com/Yoyo-su/NC-DataEng-Project-Terrific-Totes)**   
   A 3-week team project remodeling a transactional database into an analytical format using an ETL pipeline on AWS (Lambda, S3), deployed via GitHub Actions and Terraform. Used Agile methodology and Kanban for team coordination.
 
 More projects to come — stay tuned!
@@ -34,6 +34,6 @@ Outside of tech, I’m a lifelong aviation enthusiast who enjoys plane spotting.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/iohane-annan-07b722a0/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/iohane-annan-07b722a0/)
 
 Thanks for stopping by! 🙌
