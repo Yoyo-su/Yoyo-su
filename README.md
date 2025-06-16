@@ -21,6 +21,8 @@ I'm a Data Engineer transitioning from a 10+ year career in manufacturing. I rec
 
 - **📊 [Northcoders DE Project – Terrific Totes](https://github.com/Yoyo-su/NC-DataEng-Project-Terrific-Totes)**   
   A 3-week team project remodeling a transactional database into an analytical format using an ETL pipeline on AWS (Lambda, S3), deployed via GitHub Actions and Terraform. Used Agile methodology and Kanban for team coordination.
+- **🔐 [Password Manager](https://github.com/Yoyo-su/NC-Password-Manager)**   
+  A simple password manager that utilises AWS Secrets to store username and passwords securely. Pair programming project. 
 
 More projects to come, stay tuned!
 
