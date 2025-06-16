@@ -8,7 +8,7 @@ I'm a Data Engineer transitioning from a 10+ year career in manufacturing. I rec
 
 **Languages:** Python, JavaScript (basic), Shell scripting  
 **Cloud:** AWS (EC2, Lambda, RDS, IAM, CloudWatch, Athena, Glue, Step Functions, SDK/CLI)  
-**Data Engineering:** SQL (Intermediate/Advanced), ETL Pipelines, Postgres, OLTP/OLAP modeling, database normalization  
+**Data Engineering:** SQL (Intermediate/Advanced), MongoDB, ETL Pipelines, Postgres, OLTP/OLAP modeling, database normalization  
 **DevOps & Infrastructure:** Terraform (HCL), GitHub Actions (CI/CD), Makefiles  
 **Data Architecture:** Star/Snowflake Schema, Data Warehouse, Lakes & Lakehouse 
 **Testing:** TDD, Pytest, Mocking & Patching 
